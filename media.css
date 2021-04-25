@@ -1,0 +1,11 @@
+body {
+    font-size: 12px;
+    background: honeydew;
+}
+
+@media screen and (min-width: 600px) {
+    body {
+      font-size: 12px;
+      background: grey;
+    }
+  }
